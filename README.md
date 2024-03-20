@@ -1,3 +1,6 @@
+# Simple Setup
+Click this [Link](https://colab.research.google.com/drive/1CKo23G7kX_tOzwNK9J3xB5LoyrTy1hFl?usp=sharing) to view and use the Google Colab Notebook
+
 # Setup and Usage Guide for Whisper Transcription and Translation Notebook
 
 This guide will walk you through the process of using the "OpenAI_Whisper_V3_Large_Transcription_Translation.ipynb" notebook to transcribe or translate audio files. Follow the steps below to get started.
