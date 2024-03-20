@@ -8,7 +8,7 @@ Before you begin, make sure you have a Google account as you will need it to acc
 
 ## Step-by-Step Instructions
 
-1. **Download the Notebook**: Start by downloading the *"OpenAI_Whisper_V3_Large_Transcription_Translation.ipynb"* notebook directly from our GitHub repository by clicking **[here](https://raw.githubusercontent.com/abullard1/OpenAI_Whisper_V3_Large_Transcription_Translation/main/OpenAI_Whisper_V3_Large_Transcription_Translation.ipynb)**.
+1. **Download the Notebook**: Start by downloading the *"OpenAI_Whisper_V3_Large_Transcription_Translation.ipynb"* notebook directly from the GitHub repository.
 
 2. **Open the Notebook in Google Colab**: Visit [Google Colab](https://colab.research.google.com/), and sign in with your Google account. Then, upload the downloaded notebook to Colab by clicking on `File > Upload notebook`.
 
